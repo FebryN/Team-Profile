@@ -81,28 +81,28 @@ main#carousel {
 }
 .item:nth-of-type(2) {
   --offset: 2;
-  background-image: url("https://github.com/FebryN/Team-Profile/blob/main/assets/css/refsi.jpg");
+  background-image: url("assets/css/refsi.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-color: #fff;
 }
 .item:nth-of-type(3) {
   --offset: 3;
-  background-image: url("https://github.com/FebryN/Team-Profile/blob/main/assets/css/arief.jpg");
+  background-image: url("assets/css/arief.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-color: #fff;
 }
 .item:nth-of-type(4) {
   --offset: 4;
-  background-image: url("https://github.com/FebryN/Team-Profile/blob/main/assets/css/fahmy.jpg");
+  background-image: url("assets/css/fahmy.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-color: #fff;
 }
 .item:nth-of-type(5) {
   --offset: 5;
-  background-image: url("https://github.com/FebryN/Team-Profile/blob/main/assets/css/agri.jpg");
+  background-image: url("assets/css/agri.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-color: #fff;
